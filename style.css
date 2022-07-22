@@ -1,0 +1,14 @@
+.carousel-item img {
+  /* 높이를 100vh를 주기 */
+  height: 100vh;
+
+  /* vh, vw 란? */
+  /* viewport height */
+  /* viewport width */
+  /* 화면 줄어들거나 커지면 같이 줄어들고 같이 커짐 */
+}
+
+nav {
+  z-index: 1;
+}
+
